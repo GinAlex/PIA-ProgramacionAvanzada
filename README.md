@@ -1,1 +1,2 @@
 # PIA-ProgramacionAvanzada
+Este PIA se va a proponer una solucion de desarrollo de software mediante Python que demuestra la aplicacion de los conceptos de POO, Tolerancia a ellos, el almacenamiento permanente del estado de la misma.
